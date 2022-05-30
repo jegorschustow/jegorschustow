@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jegorschustow
+- 👀 I’m interested in writing excellent code and creating some great things and products 
+- 🌱 I’m currently applying to the Yandex Academy Python Backend-Dev School 
+- 💞️ Time to pull, push and commit is coming! 
